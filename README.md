@@ -1,3 +1,4 @@
-# Readme.md
+# About HuxBook on GitHub
+![Logo](HuxBook.png)
 Oh, hello. This GH organization is owned by @huxtabl8 and is ran by him.
-![found this image on yahoo! japan]([http://url/to/img.png](https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqGzVt9d5Js3XEgDnxviWVG1GfkagrGMvRLICXAgZF717XW2R515jbWyp386tH16vmcO86SERGgkmYl85g5b7JkDwWcRl6mxlCpIhzIpUmBKW92qEar9EmCA57GuH9AVV8gV8YJOvfSJiCl7dZNmNWusHCD_TAqKJa0lF7TEBhi7ZSzF8uPjTkoThQ7xqW3kUtgkaVyPM2oMOzO7OqapMlEaBUaqCvF0bhY-3XdTq7ca1-xsoh87iDv7MCKnWb9ybGFqz01isPP4lh0p8rCOD_L2TUyhQ4SFE94MYYmG-qBt28bcgrHl1sLclEBhqOy4EI4rG3TsrmREhEfWtgruEjG2vc5J5ZTZFGWS-osm9CiPETOqNm2D9PH-ZzBgZCly_Tv_55hy5DSM__IcmllQ9Ek2Q=/types-organizational-structures.png?errorImage=false))
+
